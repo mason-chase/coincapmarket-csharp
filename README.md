@@ -1,2 +1,2 @@
-# coincapmarket-csharp
-CoinCapMarket C#
+# coinmarketcap-csharp
+CoinMarketCap C#
