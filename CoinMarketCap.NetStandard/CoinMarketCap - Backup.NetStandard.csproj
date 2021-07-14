@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Mason Chase</Authors>
+    <Product>CoinMarketCap.NetStandard</Product>
+    <NoPackageAnalysis>true</NoPackageAnalysis>
+    <Summary>
+      CoinMarketCap API running NetStandard 2.0 tested with .NET 5
+    </Summary>
+    <Description>CoinMarketCap v1 API / SDK</Description>
+    <Copyright>Mason Chase</Copyright>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/mason-chase/coinmarketcap-netstandard-csharp</PackageProjectUrl>
+    <PackageIcon>coincapmarket-netstandard-logo.png</PackageIcon>
+    <PackageIconUrl />
+    <RepositoryUrl>https://github.com/mason-chase/coinmarketcap-netstandard-csharp</RepositoryUrl>
+    <AssemblyVersion>0.1.1.0</AssemblyVersion>
+    <FileVersion>0.1.1.0</FileVersion>
+    <Version>0.1.1</Version>
+    <PackageReleaseNotes>CoinMarketCap v1 API / SDK</PackageReleaseNotes>
+    <Company />
+    <AssemblyName>CoinMarketCap.NetStandard</AssemblyName>
+    <RootNamespace>CoinMarketCap.NetStandard</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\app-console-csharp\azihub-utilities-base-csharp\Azihub.Utilities.Base\Azihub.Utilities.Base.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="coincapmarket-netstandard-logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

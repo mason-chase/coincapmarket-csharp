@@ -1,0 +1,754 @@
+﻿{
+  "status": {
+    "timestamp": "2021-07-13T19:18:26.220Z",
+    "error_code": 0,
+    "error_message": null,
+    "elapsed": 22,
+    "credit_count": 1,
+    "notice": null
+  },
+  "data": {
+    "1": {
+      "id": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "category": "coin",
+      "description": "Bitcoin (BTC) is a cryptocurrency . Users are able to generate BTC through the process of mining. Bitcoin has a current supply of 18,755,387. The last known price of Bitcoin is 32,522.5534946 USD and is down -2.33 over the last 24 hours. It is currently trading on 9017 active market(s) with $19,781,718,363.98 traded over the last 24 hours. More information can be found at https://bitcoin.org/.",
+      "slug": "bitcoin",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+      "subreddit": "bitcoin",
+      "notice": "",
+      "tags": [
+        "mineable",
+        "pow",
+        "sha-256",
+        "store-of-value",
+        "state-channels",
+        "coinbase-ventures-portfolio",
+        "three-arrows-capital-portfolio",
+        "polychain-capital-portfolio",
+        "binance-labs-portfolio",
+        "arrington-xrp-capital",
+        "blockchain-capital-portfolio",
+        "boostvc-portfolio",
+        "cms-holdings-portfolio",
+        "dcg-portfolio",
+        "dragonfly-capital-portfolio",
+        "electric-capital-portfolio",
+        "fabric-ventures-portfolio",
+        "framework-ventures",
+        "galaxy-digital-portfolio",
+        "huobi-capital",
+        "alameda-research-portfolio",
+        "a16z-portfolio",
+        "1confirmation-portfolio",
+        "winklevoss-capital",
+        "usv-portfolio",
+        "placeholder-ventures-portfolio",
+        "pantera-capital-portfolio",
+        "multicoin-capital-portfolio",
+        "paradigm-xzy-screener"
+      ],
+      "tag-names": [
+        "Mineable",
+        "PoW",
+        "SHA-256",
+        "Store of Value",
+        "State channels",
+        "Coinbase Ventures Portfolio",
+        "Three Arrows Capital Portfolio",
+        "Polychain Capital Portfolio",
+        "Binance Labs Portfolio",
+        "Arrington XRP capital",
+        "Blockchain Capital Portfolio",
+        "BoostVC Portfolio",
+        "CMS Holdings Portfolio",
+        "DCG Portfolio",
+        "DragonFly Capital Portfolio",
+        "Electric Capital Portfolio",
+        "Fabric Ventures Portfolio",
+        "Framework Ventures",
+        "Galaxy Digital Portfolio",
+        "Huobi Capital",
+        "Alameda Research Portfolio",
+        "A16Z Portfolio",
+        "1Confirmation Portfolio",
+        "Winklevoss Capital",
+        "USV Portfolio",
+        "Placeholder Ventures Portfolio",
+        "Pantera Capital Portfolio",
+        "Multicoin Capital Portfolio",
+        "Paradigm XZY Screener"
+      ],
+      "tag-groups": [
+        "OTHER",
+        "CONSENSUS_ALGORITHM",
+        "CONSENSUS_ALGORITHM",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY"
+      ],
+      "urls": {
+        "website": [
+          "https://bitcoin.org/"
+        ],
+        "twitter": [],
+        "message_board": [
+          "https://bitcointalk.org"
+        ],
+        "chat": [],
+        "explorer": [
+          "https://blockchain.coinmarketcap.com/chain/bitcoin",
+          "https://blockchain.info/",
+          "https://live.blockcypher.com/btc/",
+          "https://blockchair.com/bitcoin",
+          "https://explorer.viabtc.com/btc"
+        ],
+        "reddit": [
+          "https://reddit.com/r/bitcoin"
+        ],
+        "technical_doc": [
+          "https://bitcoin.org/bitcoin.pdf"
+        ],
+        "source_code": [
+          "https://github.com/bitcoin/"
+        ],
+        "announcement": []
+      },
+      "platform": null,
+      "date_added": "2013-04-28T00:00:00.000Z",
+      "twitter_username": "",
+      "is_hidden": 0
+    },
+    "2": {
+      "id": 2,
+      "name": "Litecoin",
+      "symbol": "LTC",
+      "category": "coin",
+      "description": "Litecoin (LTC) is a cryptocurrency . Users are able to generate LTC through the process of mining. Litecoin has a current supply of 66,752,414.51538747. The last known price of Litecoin is 132.47825849 USD and is down -2.10 over the last 24 hours. It is currently trading on 714 active market(s) with $1,324,380,480.30 traded over the last 24 hours. More information can be found at https://litecoin.org/.",
+      "slug": "litecoin",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
+      "subreddit": "litecoin",
+      "notice": "",
+      "tags": [
+        "mineable",
+        "pow",
+        "scrypt",
+        "medium-of-exchange",
+        "binance-chain"
+      ],
+      "tag-names": [
+        "Mineable",
+        "PoW",
+        "Scrypt",
+        "Medium of Exchange",
+        "Binance Chain"
+      ],
+      "tag-groups": [
+        "OTHER",
+        "CONSENSUS_ALGORITHM",
+        "CONSENSUS_ALGORITHM",
+        "PROPERTY",
+        "PLATFORM"
+      ],
+      "urls": {
+        "website": [
+          "https://litecoin.org/"
+        ],
+        "twitter": [
+          "https://twitter.com/LitecoinProject"
+        ],
+        "message_board": [
+          "https://litecointalk.io/",
+          "https://litecoin-foundation.org/"
+        ],
+        "chat": [
+          "https://telegram.me/litecoin"
+        ],
+        "explorer": [
+          "https://blockchair.com/litecoin",
+          "https://chainz.cryptoid.info/ltc/",
+          "http://explorer.litecoin.net/chain/Litecoin",
+          "https://ltc.tokenview.com/en",
+          "https://bscscan.com/token/0x4338665cbb7b2485a8855a139b75d5e34ab0db94"
+        ],
+        "reddit": [
+          "https://reddit.com/r/litecoin"
+        ],
+        "technical_doc": [],
+        "source_code": [
+          "https://github.com/litecoin-project/litecoin"
+        ],
+        "announcement": [
+          "https://bitcointalk.org/index.php?topic=47417.0"
+        ]
+      },
+      "platform": null,
+      "date_added": "2013-04-28T00:00:00.000Z",
+      "twitter_username": "LitecoinProject",
+      "is_hidden": 0
+    },
+    "329": {
+      "id": 329,
+      "name": "Sync",
+      "symbol": "SYNC",
+      "category": "coin",
+      "description": "Sync (SYNC) is a cryptocurrency . Sync has a current supply of 0. The last known price of Sync is 674.30151367 USD and is up 0.00 over the last 24 hours. More information can be found at http://syncfund.com/index.html.",
+      "slug": "sync",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/329.png",
+      "subreddit": "",
+      "notice": "",
+      "tags": null,
+      "tag-names": null,
+      "tag-groups": null,
+      "urls": {
+        "website": [
+          "http://syncfund.com/index.html"
+        ],
+        "twitter": [
+          "https://twitter.com/synclub"
+        ],
+        "message_board": [],
+        "chat": [],
+        "explorer": [
+          "http://chainz.cryptoid.info/sync/"
+        ],
+        "reddit": [],
+        "technical_doc": [],
+        "source_code": [
+          "https://github.com/MsCollec/Sync2"
+        ],
+        "announcement": [
+          "https://bitcointalk.org/index.php?topic=607919.0"
+        ]
+      },
+      "platform": null,
+      "date_added": "2014-05-21T00:00:00.000Z",
+      "twitter_username": "synclub",
+      "is_hidden": 0
+    },
+    "1027": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "category": "coin",
+      "description": "Ethereum (ETH) is a cryptocurrency . Users are able to generate ETH through the process of mining. Ethereum has a current supply of 116,678,838.6865. The last known price of Ethereum is 1,955.67583645 USD and is down -4.37 over the last 24 hours. It is currently trading on 5788 active market(s) with $16,654,163,675.94 traded over the last 24 hours. More information can be found at https://www.ethereum.org/.",
+      "slug": "ethereum",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "subreddit": "ethereum",
+      "notice": "Ethereum developer Tim Beiko announced in his blog that Ethereum ’s London hard fork will launch on August 4 between 13:00 UTC and 17:00 UTC with block 12,965,000.",
+      "tags": [
+        "mineable",
+        "pow",
+        "smart-contracts",
+        "ethereum",
+        "coinbase-ventures-portfolio",
+        "three-arrows-capital-portfolio",
+        "polychain-capital-portfolio",
+        "binance-labs-portfolio",
+        "arrington-xrp-capital",
+        "blockchain-capital-portfolio",
+        "boostvc-portfolio",
+        "cms-holdings-portfolio",
+        "dcg-portfolio",
+        "dragonfly-capital-portfolio",
+        "electric-capital-portfolio",
+        "fabric-ventures-portfolio",
+        "framework-ventures",
+        "hashkey-capital-portfolio",
+        "kinetic-capital",
+        "huobi-capital",
+        "alameda-research-portfolio",
+        "a16z-portfolio",
+        "1confirmation-portfolio",
+        "winklevoss-capital",
+        "usv-portfolio",
+        "placeholder-ventures-portfolio",
+        "pantera-capital-portfolio",
+        "multicoin-capital-portfolio",
+        "paradigm-xzy-screener"
+      ],
+      "tag-names": [
+        "Mineable",
+        "PoW",
+        "Smart Contracts",
+        "Ethereum",
+        "Coinbase Ventures Portfolio",
+        "Three Arrows Capital Portfolio",
+        "Polychain Capital Portfolio",
+        "Binance Labs Portfolio",
+        "Arrington XRP capital",
+        "Blockchain Capital Portfolio",
+        "BoostVC Portfolio",
+        "CMS Holdings Portfolio",
+        "DCG Portfolio",
+        "DragonFly Capital Portfolio",
+        "Electric Capital Portfolio",
+        "Fabric Ventures Portfolio",
+        "Framework Ventures",
+        "Hashkey Capital Portfolio",
+        "Kinetic Capital",
+        "Huobi Capital",
+        "Alameda Research Portfolio",
+        "A16Z Portfolio",
+        "1Confirmation Portfolio",
+        "Winklevoss Capital",
+        "USV Portfolio",
+        "Placeholder Ventures Portfolio",
+        "Pantera Capital Portfolio",
+        "Multicoin Capital Portfolio",
+        "Paradigm XZY Screener"
+      ],
+      "tag-groups": [
+        "OTHER",
+        "CONSENSUS_ALGORITHM",
+        "PROPERTY",
+        "PLATFORM",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY"
+      ],
+      "urls": {
+        "website": [
+          "https://www.ethereum.org/",
+          "https://en.wikipedia.org/wiki/Ethereum"
+        ],
+        "twitter": [
+          "https://twitter.com/ethereum"
+        ],
+        "message_board": [
+          "https://forum.ethereum.org/",
+          "https://ethresear.ch/"
+        ],
+        "chat": [
+          "https://gitter.im/orgs/ethereum/rooms"
+        ],
+        "explorer": [
+          "https://etherscan.io/",
+          "https://ethplorer.io/",
+          "https://blockchair.com/ethereum",
+          "https://bscscan.com/token/0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+          "https://eth.tokenview.com/en/blocklist"
+        ],
+        "reddit": [
+          "https://reddit.com/r/ethereum"
+        ],
+        "technical_doc": [
+          "https://github.com/ethereum/wiki/wiki/White-Paper"
+        ],
+        "source_code": [
+          "https://github.com/ethereum"
+        ],
+        "announcement": [
+          "https://bitcointalk.org/index.php?topic=428589.0"
+        ]
+      },
+      "platform": null,
+      "date_added": "2015-08-07T00:00:00.000Z",
+      "twitter_username": "ethereum",
+      "is_hidden": 0
+    },
+    "1567": {
+      "id": 1567,
+      "name": "Nano",
+      "symbol": "NANO",
+      "category": "coin",
+      "description": "Nano (NANO) is a cryptocurrency . Nano has a current supply of 133,248,297.197. The last known price of Nano is 4.24214314 USD and is down -6.30 over the last 24 hours. It is currently trading on 52 active market(s) with $32,487,594.68 traded over the last 24 hours. More information can be found at http://nano.org/en.",
+      "slug": "nano",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1567.png",
+      "subreddit": "nanocurrency",
+      "notice": "",
+      "tags": [
+        "dag",
+        "dpos",
+        "blake2b",
+        "medium-of-exchange",
+        "payments"
+      ],
+      "tag-names": [
+        "DAG",
+        "DPoS",
+        "Blake2b",
+        "Medium of Exchange",
+        "Payments"
+      ],
+      "tag-groups": [
+        "CONSENSUS_ALGORITHM",
+        "CONSENSUS_ALGORITHM",
+        "CONSENSUS_ALGORITHM",
+        "PROPERTY",
+        "PROPERTY"
+      ],
+      "urls": {
+        "website": [
+          "http://nano.org/en"
+        ],
+        "twitter": [
+          "https://twitter.com/nano"
+        ],
+        "message_board": [
+          "https://forum.nano.org/"
+        ],
+        "chat": [
+          "https://chat.nano.org/",
+          "https://t.me/nanocurrency"
+        ],
+        "explorer": [
+          "https://nanocrawler.cc/",
+          "https://repnode.org/",
+          "https://nanolooker.com/"
+        ],
+        "reddit": [
+          "https://reddit.com/r/nanocurrency"
+        ],
+        "technical_doc": [
+          "https://nano.org/en/whitepaper"
+        ],
+        "source_code": [
+          "https://github.com/nanocurrency"
+        ],
+        "announcement": [
+          "https://bitcointalk.org/index.php?topic=1381323.0"
+        ]
+      },
+      "platform": null,
+      "date_added": "2017-03-06T00:00:00.000Z",
+      "twitter_username": "nano",
+      "is_hidden": 0
+    },
+    "1720": {
+      "id": 1720,
+      "name": "IOTA",
+      "symbol": "MIOTA",
+      "category": "coin",
+      "description": "IOTA (MIOTA) is a cryptocurrency . IOTA has a current supply of 2,779,530,283. The last known price of IOTA is 0.74640429 USD and is down -6.09 over the last 24 hours. It is currently trading on 56 active market(s) with $32,705,933.86 traded over the last 24 hours. More information can be found at https://www.iota.org/.",
+      "slug": "iota",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1720.png",
+      "subreddit": "Iota",
+      "notice": "",
+      "tags": [
+        "dag",
+        "medium-of-exchange",
+        "iot",
+        "sharing-economy"
+      ],
+      "tag-names": [
+        "DAG",
+        "Medium of Exchange",
+        "IoT",
+        "Sharing Economy"
+      ],
+      "tag-groups": [
+        "CONSENSUS_ALGORITHM",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY"
+      ],
+      "urls": {
+        "website": [
+          "https://www.iota.org/"
+        ],
+        "twitter": [
+          "https://twitter.com/iota"
+        ],
+        "message_board": [
+          "https://forum.iota.org"
+        ],
+        "chat": [
+          "https://discord.iota.org/"
+        ],
+        "explorer": [
+          "https://thetangle.org/",
+          "http://explorer.iota.org/?"
+        ],
+        "reddit": [
+          "https://reddit.com/r/Iota"
+        ],
+        "technical_doc": [
+          "https://iota.org/IOTA_Whitepaper.pdf"
+        ],
+        "source_code": [
+          "https://github.com/iotaledger"
+        ],
+        "announcement": [
+          "https://bitcointalk.org/index.php?topic=1216479.0"
+        ]
+      },
+      "platform": null,
+      "date_added": "2017-06-13T00:00:00.000Z",
+      "twitter_username": "iota",
+      "is_hidden": 0
+    },
+    "1765": {
+      "id": 1765,
+      "name": "EOS",
+      "symbol": "EOS",
+      "category": "coin",
+      "description": "EOS (EOS) is a cryptocurrency . EOS has a current supply of 1,031,234,561.4537 with 955,150,816.4326 in circulation. The last known price of EOS is 3.87865432 USD and is down -7.10 over the last 24 hours. It is currently trading on 430 active market(s) with $1,195,880,163.31 traded over the last 24 hours. More information can be found at https://eos.io/.",
+      "slug": "eos",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
+      "subreddit": "EOS",
+      "notice": "",
+      "tags": [
+        "medium-of-exchange",
+        "enterprise-solutions",
+        "smart-contracts",
+        "binance-chain",
+        "fenbushi-capital-portfolio",
+        "galaxy-digital-portfolio"
+      ],
+      "tag-names": [
+        "Medium of Exchange",
+        "Enterprise solutions",
+        "Smart Contracts",
+        "Binance Chain",
+        "Fenbushi Capital Portfolio",
+        "Galaxy Digital Portfolio"
+      ],
+      "tag-groups": [
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PLATFORM",
+        "PROPERTY",
+        "PROPERTY"
+      ],
+      "urls": {
+        "website": [
+          "https://eos.io/"
+        ],
+        "twitter": [
+          "https://twitter.com/block_one_"
+        ],
+        "message_board": [],
+        "chat": [
+          "https://t.me/joinchat/AAAAAEQbOeucnaMWN0A9dQ"
+        ],
+        "explorer": [
+          "https://bloks.io/",
+          "https://eosflare.io/",
+          "https://eospark.com/",
+          "https://www.eosx.io/?partner=coinmarketcap",
+          "https://bscscan.com/token/0x56b6fb708fc5732dec1afc8d8556423a2edccbd6"
+        ],
+        "reddit": [
+          "https://reddit.com/r/EOS"
+        ],
+        "technical_doc": [
+          "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md"
+        ],
+        "source_code": [
+          "https://github.com/eosio"
+        ],
+        "announcement": [
+          "https://bitcointalk.org/index.php?topic=1904415.0"
+        ]
+      },
+      "platform": null,
+      "date_added": "2017-07-01T00:00:00.000Z",
+      "twitter_username": "block_one_",
+      "is_hidden": 0
+    },
+    "1839": {
+      "id": 1839,
+      "name": "Binance Coin",
+      "symbol": "BNB",
+      "category": "coin",
+      "description": "Binance Coin (BNB) is a cryptocurrency . Binance Coin has a current supply of 169,432,897 with 153,432,897 in circulation. The last known price of Binance Coin is 308.15149881 USD and is down -2.29 over the last 24 hours. It is currently trading on 521 active market(s) with $1,294,826,767.78 traded over the last 24 hours. More information can be found at https://www.binance.com/.",
+      "slug": "binance-coin",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+      "subreddit": "binance",
+      "notice": "",
+      "tags": [
+        "marketplace",
+        "centralized-exchange",
+        "payments",
+        "binance-smart-chain",
+        "alameda-research-portfolio",
+        "multicoin-capital-portfolio"
+      ],
+      "tag-names": [
+        "Marketplace",
+        "Centralized exchange",
+        "Payments",
+        "Binance Smart Chain",
+        "Alameda Research Portfolio",
+        "Multicoin Capital Portfolio"
+      ],
+      "tag-groups": [
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY"
+      ],
+      "urls": {
+        "website": [
+          "https://www.binance.com/"
+        ],
+        "twitter": [
+          "https://twitter.com/binance"
+        ],
+        "message_board": [],
+        "chat": [
+          "https://t.me/binanceexchange"
+        ],
+        "explorer": [
+          "https://explorer.binance.org/",
+          "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+          "https://bscscan.com/token/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "https://blockchair.com/ethereum/erc-20/token/0xb8c77482e45f1f44de1745f52c74426c631bdd52"
+        ],
+        "reddit": [
+          "https://reddit.com/r/binance"
+        ],
+        "technical_doc": [],
+        "source_code": [],
+        "announcement": []
+      },
+      "platform": null,
+      "date_added": "2017-07-25T00:00:00.000Z",
+      "twitter_username": "binance",
+      "is_hidden": 0
+    },
+    "1975": {
+      "id": 1975,
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "category": "token",
+      "description": "Chainlink (LINK) is a cryptocurrency and operates on the Ethereum platform. Chainlink has a current supply of 1,000,000,000 with 438,509,553.9174637 in circulation. The last known price of Chainlink is 16.88201447 USD and is down -3.75 over the last 24 hours. It is currently trading on 478 active market(s) with $517,451,267.57 traded over the last 24 hours. More information can be found at https://chain.link/.",
+      "slug": "chainlink",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+      "subreddit": "chainlink",
+      "notice": "",
+      "tags": [
+        "platform",
+        "defi",
+        "oracles",
+        "smart-contracts",
+        "substrate",
+        "polkadot",
+        "polkadot-ecosystem",
+        "avalanche-ecosystem",
+        "solana-ecosystem",
+        "framework-ventures",
+        "polygon-ecosystem"
+      ],
+      "tag-names": [
+        "Platform",
+        "DeFi",
+        "Oracles",
+        "Smart Contracts",
+        "Substrate",
+        "Polkadot",
+        "Polkadot Ecosystem",
+        "Avalanche Ecosystem",
+        "Solana Ecosystem",
+        "Framework Ventures",
+        "Polygon Ecosystem"
+      ],
+      "tag-groups": [
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PLATFORM",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY",
+        "PROPERTY"
+      ],
+      "urls": {
+        "website": [
+          "https://chain.link/",
+          "https://smartcontract.com/"
+        ],
+        "twitter": [
+          "https://twitter.com/chainlink"
+        ],
+        "message_board": [
+          "https://medium.com/chainlink",
+          "https://blog.chain.link/"
+        ],
+        "chat": [
+          "https://t.me/chainlinkofficial"
+        ],
+        "explorer": [
+          "https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+          "https://bscscan.com/token/0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+          "https://explorer.solana.com/address/CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG",
+          "https://blockscout.com/xdai/mainnet/tokens/0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2/token-transfers",
+          "https://ftmscan.com/token/0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8"
+        ],
+        "reddit": [
+          "https://reddit.com/r/chainlink"
+        ],
+        "technical_doc": [
+          "https://link.smartcontract.com/whitepaper"
+        ],
+        "source_code": [
+          "https://github.com/smartcontractkit/chainlink"
+        ],
+        "announcement": []
+      },
+      "platform": {
+        "id": 1027,
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "slug": "ethereum",
+        "token_address": "0x514910771af9ca656af840dff83e8264ecf986ca"
+      },
+      "date_added": "2017-09-20T00:00:00.000Z",
+      "twitter_username": "chainlink",
+      "is_hidden": 0
+    }
+  }
+}
