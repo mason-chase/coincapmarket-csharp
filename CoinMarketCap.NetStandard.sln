@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinMarketCap.NetStandard", "CoinMarketCap.NetStandard\CoinMarketCap.NetStandard.csproj", "{82437F08-013B-44D6-A049-4CD1F94AD938}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mc2.CoinMarketCap.NetStandard", "Mc2.CoinMarketCap.NetStandard\Mc2.CoinMarketCap.NetStandard.csproj", "{82437F08-013B-44D6-A049-4CD1F94AD938}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinMarketCap.NetStandard.Tests", "CoinMarketCap.NetStandard.Tests\CoinMarketCap.NetStandard.Tests.csproj", "{6871F5CD-CFA3-4FED-ADFE-1E4BFC7F131F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mc2.CoinMarketCap.NetStandard.Tests", "Mc2.CoinMarketCap.NetStandard.Tests\Mc2.CoinMarketCap.NetStandard.Tests.csproj", "{6871F5CD-CFA3-4FED-ADFE-1E4BFC7F131F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{24032004-22DF-4E7C-9338-97954E9DC0DF}"
 	ProjectSection(SolutionItems) = preProject
@@ -13,8 +13,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		LICENSE.md = LICENSE.md
 		README.md = README.md
 	EndProjectSection
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Azihub.Utilities.Base", "..\app-console-csharp\azihub-utilities-base-csharp\Azihub.Utilities.Base\Azihub.Utilities.Base.csproj", "{68BFDC09-3CB9-47A7-99D5-08B3F575E701}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,10 +28,6 @@ Global
 		{6871F5CD-CFA3-4FED-ADFE-1E4BFC7F131F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6871F5CD-CFA3-4FED-ADFE-1E4BFC7F131F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6871F5CD-CFA3-4FED-ADFE-1E4BFC7F131F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{68BFDC09-3CB9-47A7-99D5-08B3F575E701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{68BFDC09-3CB9-47A7-99D5-08B3F575E701}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{68BFDC09-3CB9-47A7-99D5-08B3F575E701}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{68BFDC09-3CB9-47A7-99D5-08B3F575E701}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
