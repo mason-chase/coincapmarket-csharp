@@ -21,11 +21,11 @@ namespace CoinMarketCap.NetStandard.Tests
         {
             string fullJsonPath = $"Samples{Ds}CryptocurrencyInfo.json";
             string sample = File.ReadAllText(fullJsonPath);
-            Response<Dictionary<string, Metadata>> response = JsonConvert.DeserializeObject<Response<Dictionary<string, Metadata>>> (sample) ;
+            CoinResponse<Dictionary<string, Metadata>> response = JsonConvert.DeserializeObject<CoinResponse<Dictionary<string, Metadata>>> (sample) ;
 
-            Output.WriteLine($"Parsed count: {response?.Data.Count} "+
-                $"First's name: {response?.Data.First().Value.Name}");
-            Assert.Equal("Bitcoin", response?.Data.First().Value.Name);
+            Output.WriteLine($"Parsed count: {response?.CoinData.Count} "+
+                $"First's name: {response?.CoinData.First().Value.Name}");
+            Assert.Equal("Bitcoin", response?.CoinData.First().Value.Name);
         }
     }
 }

@@ -35,9 +35,7 @@ namespace Mc2.CoinMarketCap.NetStandard.Options
         public override bool CanConvert(Type objectType)
         {
             // Uncomment when I find a dynamic solution to evaluate only property
-            var result = typeof(IDictionary<TKey, TValue>).IsAssignableFrom(objectType);
             return typeof(IDictionary<TKey, TValue>).IsAssignableFrom(objectType);
-            //return true;
         }
 
         public override bool CanWrite
